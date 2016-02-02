@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+encoding//src/DataOperation/DataOperation/settings.py=utf8
+encoding//src/DataOperation/service/admin.py=utf8
+encoding//src/DataOperation/service/adminx.py=utf8
+encoding//src/DataOperation/service/migrations/0002_remove_service_category_owner.py=utf-8
+encoding//src/DataOperation/service/migrations/0004_auto_20151022_1642.py=utf-8
+encoding//src/DataOperation/service/models.py=utf8
+encoding//src/DataOperation/service/serializers.py=utf8
+encoding//src/DataOperation/service/serviceurl.py=utf8
+encoding//src/DataOperation/service/views.py=utf8
+encoding//src/DataOperation/util/adminx.py=utf8
+encoding//src/DataOperation/util/templatetags/TagUtils.py=utf8

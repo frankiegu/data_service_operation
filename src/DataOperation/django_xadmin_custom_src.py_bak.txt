@@ -1,0 +1,2 @@
+"E:\Python\Lib\site-packages\django_xadmin-0.5.0-py2.7.egg\xadmin\plugins\details.py"
+"E:\Python\Lib\site-packages\django_xadmin-0.5.0-py2.7.egg\xadmin\views\list.py"
