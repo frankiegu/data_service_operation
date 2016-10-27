@@ -30,7 +30,7 @@ DEBUG = False #生产模式下必须设置域名控制
 ALLOWED_HOSTS = ['*']
 
 #设置代理服务基础地址(https?://域名或者IP:端口/)
-PROXY_SERVICE_URL = "http://139.196.56.37:8090/service/"
+PROXY_SERVICE_URL = "http://127.0.0.1:80/service/"
 
 # Application definition
 
@@ -128,9 +128,9 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'operation_db',
-        'USER' : 'root',
-        'PASSWORD' : 'lx870830',
-        'HOST' : '139.196.56.37',
+        'USER' : 'db-user',
+        'PASSWORD' : 'db-password',
+        'HOST' : '127.0.0.1',
         'PORT' : 3306,
         'ATOMIC_REQUESTS': True,
     }
